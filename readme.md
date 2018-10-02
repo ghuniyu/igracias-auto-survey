@@ -1,5 +1,7 @@
 ### Cara Pakai
 
+Download AutoSurvey.js
+
 * Chrome : [Install Tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 * Firefox : [Install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
